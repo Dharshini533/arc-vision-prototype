@@ -1,3 +1,4 @@
+📌 **Demo Video:** See the full prototype walkthrough here → [DEMO.md](DEMO.md)
 **ARC-VISION: AI-Powered Retail Creative Generator
 Retail Media Innovation Jam — Hackathon Submission
 Built by Dharshini Ramesh**
